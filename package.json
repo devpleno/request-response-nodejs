@@ -1,0 +1,18 @@
+{
+  "name": "devpleno-req-res-nodejs",
+  "version": "1.0.0",
+  "description": "Um pequeno exemplo para demonstrar os objetos request e response de uma requisicao web.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devpleno/request-response-nodejs"
+  },
+  "author": "Tulio Faria",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
